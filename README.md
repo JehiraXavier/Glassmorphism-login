@@ -1,5 +1,12 @@
 # Glassmorphism Login
 
-## Live Demo
+## Live demo
+[Demo](https://glassmorphism-log-in-page.netlify.app/)
 
-https://glassmorphism-log-in-page.netlify.app/
+![Glassmorphism Login](https://res.cloudinary.com/dgm9zfiuo/image/upload/v1698859173/Portfolio%20projects/view_dxu2k2.png)
+
+## Project summary
+
+### Technologies used
+* HTML
+* CSS
